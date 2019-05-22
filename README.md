@@ -3,6 +3,8 @@
 Dodgebox is a personal mobile game app that is currently available for download on the [Google PlayStore](https://play.google.com/store/apps/details?id=com.mygdx.aljawahari)
 for free. The game was written in Java in the Android Studio IDE with the help of [libgdx](https://libgdx.badlogicgames.com/), a free and open-source game-development application.
 
+![DodgeBox on Google Playstore](https://i.imgur.com/5GB4Mit.png)
+
 ## Playing
 
 ### Android Device
